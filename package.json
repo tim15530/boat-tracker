@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tim15530/boat-tracker/issues"
   },
-  "homepage": "https://github.com/tim15530/boat-tracker#readme"
+  "homepage": "https://github.com/tim15530/boat-tracker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
