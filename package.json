@@ -18,7 +18,10 @@
     "url": "https://github.com/tim15530/boat-tracker/issues"
   },
   "homepage": "https://github.com/tim15530/boat-tracker#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.12"
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.5"
   }
 }
